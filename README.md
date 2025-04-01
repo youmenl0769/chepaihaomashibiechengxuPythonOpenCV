@@ -15,6 +15,7 @@
 
 1. **环境配置**：
    - 安装Python 3.x
+   - 
    - 安装OpenCV库：`pip install opencv-python`
    - 其他依赖库：根据具体代码需求进行安装
 
